@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "name":"Fluxo Caixa",
+    "icon": "./box.png",
+    "version":"1.0.0",
+    "slug":"fluxocaixa",
+    "android":{
+      "package":"com.atmosp.fluxocaixa"
+    }
+  }
+}
